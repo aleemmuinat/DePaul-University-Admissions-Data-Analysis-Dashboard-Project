@@ -99,12 +99,4 @@ The objectives of this project were to:
 - Standardize admission indicators for better analysis  
 - Improve data collection to reduce missing values  
 
----
 
-## 📊 Dashboard Preview
-
-> *(Insert dashboard screenshots here)*
-
----
-
-## 📁 Repository Structure
